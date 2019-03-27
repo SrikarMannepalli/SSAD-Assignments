@@ -1,0 +1,16 @@
+.card2 {
+  box-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  transform: translate(60%, 0%);
+}
+
+.card2:hover {
+  box-shadow: 0 50px 100px 0 rgba(0,0,0,0.2);
+}
+
+.container2 {
+  text-align: center;
+  padding: 2px 16px;
+}
